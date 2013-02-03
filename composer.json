@@ -1,0 +1,20 @@
+{
+    "name": "siklol/twitter-bootstrap-bridge-bundle",
+    "description": "TwitterBootstrapBridgeBundle",
+    "homepage": "http//www.veitosiander.de",
+    "authors": [
+        {
+            "name": "Veit Osiander",
+            "email": "mail@veitosiander.de",
+            "homepage": "http://www.veitosiander.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SikIndustries\\TwitterBootstrapBridgeBundle": ""
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
